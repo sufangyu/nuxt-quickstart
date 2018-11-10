@@ -1,0 +1,56 @@
+{
+  "links": {
+    "home": "首页",
+    "about": "关于",
+    "news": "资讯",
+    "user": "用户",
+    "message": "消息",
+    "order": "订单",
+    "login": "登录",
+    "logout": "退出登录",
+    "zh": "中文",
+    "en": "English"
+  },
+  "home": {
+    "title": "首页",
+    "introduction": "这是首页"
+  },
+  "about": {
+    "title": "关于",
+    "introduction": "这是关于页"
+  },
+  "news": {
+    "title": "资讯",
+    "meta": {
+      "description": "自定义页面描述"
+    },
+    "pageName": "资讯页"
+  },
+  "users": {
+    "list": {
+      "title": "用户列表"
+    },
+    "detail": {
+      "title": "用户详情",
+      "goback": "返回列表"
+    }
+  },
+  "messages": {
+    "title": "信息通知",
+    "introduction": "录后才可以访问的页面！入口未登录也显示！！！"
+  },
+  "orders": {
+    "title": "订单",
+    "introduction": "登录后才可以看到的页面！入口是登录后才显示！！！",
+    "hi": "你好"
+  },
+  "login": {
+    "title": "登录",
+    "form": {
+      "name": "用户名",
+      "pass": "密码",
+      "button": "提交",
+      "tips": "[用户名, 密码] =>> [demo, demo]"
+    }
+  }
+}

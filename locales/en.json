@@ -1,0 +1,57 @@
+{
+  "links": {
+    "home": "Home",
+    "about": "About",
+    "news": "News",
+    "user": "User",
+    "message": "Message",
+    "order": "Order",
+    "login": "Sing-in",
+    "logout": "Sing-out",
+    "zh": "中文",
+    "en": "English"
+  },
+  "home": {
+    "title": "Home",
+    "introduction": "This is home page."
+  },
+  "about": {
+    "title": "About",
+    "introduction": "This is about page."
+  },
+  "news": {
+    "title": "News",
+    "meta": {
+      "description": "My custom description"
+    },
+    "pageName": "News page",
+    "introduction": "This is news page."
+  },
+  "users": {
+    "list": {
+      "title": "User list"
+    },
+    "detail": {
+      "title": "User detail",
+      "goback": "Go back list"
+    }
+  },
+  "messages": {
+    "title": "Messages",
+    "introduction": "Pages that can be accessed after recording! The entry is not logged in, it also shows!!!"
+  },
+  "orders": {
+    "title": "Order",
+    "introduction": "You can see the page after login! The entry is displayed after login!!!",
+    "hi": "Hi"
+  },
+  "login": {
+    "title": "Sing-in",
+    "form": {
+      "name": "Loginname",
+      "pass": "Password",
+      "button": "Submit",
+      "tips": "[Loginname, Password] =>> [demo, demo]"
+    }
+  }
+}
